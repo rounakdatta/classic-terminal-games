@@ -1,1 +1,2 @@
-The classic Rock-Paper-Scissor Game
+• rock-paper-scissor (15-06-17)
+• hangman (16-06-17)
